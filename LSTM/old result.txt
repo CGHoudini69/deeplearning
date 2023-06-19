@@ -1,0 +1,216 @@
+﻿Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3567816913127899 and the accuracy is  0.08888889104127884 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.37673503160476685 and the accuracy is  0.25333333015441895 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4357367753982544 and the accuracy is  0.035555556416511536 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.649394690990448 and the accuracy is  0.20444443821907043 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3673623204231262 and the accuracy is  0.15777777135372162 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.363412469625473 and the accuracy is  0.24222221970558167 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.5918497443199158 and the accuracy is  0.30444443225860596 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7272777557373047 and the accuracy is  0.07555555552244186 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.34488654136657715 and the accuracy is  0.5577777624130249 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.37452012300491333 and the accuracy is  0.18666666746139526 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.631126344203949 and the accuracy is  0.18222221732139587 
+
+Test MAE of sequence_length= 3 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.773043692111969 and the accuracy is  0.03333333507180214 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.37584972381591797 and the accuracy is  0.14888888597488403 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.37424272298812866 and the accuracy is  0.5911111235618591 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.3886430561542511 and the accuracy is  0.1088888868689537 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.627984344959259 and the accuracy is  0.031111111864447594 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.34281039237976074 and the accuracy is  0.6466666460037231 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.353236585855484 and the accuracy is  0.09333333373069763 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.41748046875 and the accuracy is  0.20444443821907043 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.6913570761680603 and the accuracy is  0.20000000298023224 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3536560833454132 and the accuracy is  0.20444443821907043 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.352790504693985 and the accuracy is  0.25777778029441833 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.5778034329414368 and the accuracy is  0.20444443821907043 
+
+Test MAE of sequence_length= 3 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7363178133964539 and the accuracy is  0.20222222805023193 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.36483922600746155 and the accuracy is  0.30222222208976746 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3609597980976105 and the accuracy is  0.4399999976158142 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.34472736716270447 and the accuracy is  0.18222221732139587 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.5326952338218689 and the accuracy is  0.20444443821907043 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.34462693333625793 and the accuracy is  0.0 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3529418408870697 and the accuracy is  0.29777777194976807 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.3903508484363556 and the accuracy is  0.02222222276031971 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.628393292427063 and the accuracy is  0.753333330154419 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3373427093029022 and the accuracy is  0.46666666865348816 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.34418463706970215 and the accuracy is  0.4399999976158142 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4712636172771454 and the accuracy is  0.20666666328907013 
+
+Test MAE of sequence_length= 3 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7586100697517395 and the accuracy is  0.23111110925674438 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.34766340255737305 and the accuracy is  0.30365297198295593 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3469865620136261 and the accuracy is  0.07534246891736984 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.39403805136680603 and the accuracy is  0.5707762837409973 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7147123217582703 and the accuracy is  0.1940639317035675 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.35832881927490234 and the accuracy is  0.029680365696549416 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3688874840736389 and the accuracy is  0.2990867495536804 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.49029266834259033 and the accuracy is  0.77625572681427 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.6831270456314087 and the accuracy is  0.4155251085758209 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.36719509959220886 and the accuracy is  0.1940639317035675 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3805731534957886 and the accuracy is  0.21461187303066254 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.5947697162628174 and the accuracy is  0.45205479860305786 
+
+Test MAE of sequence_length= 4 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7834436297416687 and the accuracy is  0.2054794579744339 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.36830630898475647 and the accuracy is  0.06392694264650345 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.35730433464050293 and the accuracy is  0.1666666716337204 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.36349576711654663 and the accuracy is  0.155251145362854 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.5615602731704712 and the accuracy is  0.029680365696549416 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.372406005859375 and the accuracy is  0.0 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3620910942554474 and the accuracy is  0.1940639317035675 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4809061586856842 and the accuracy is  0.1826484054327011 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.6706753373146057 and the accuracy is  0.19863013923168182 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3403499126434326 and the accuracy is  0.4041095972061157 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3594977557659149 and the accuracy is  0.10730593651533127 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.5266661047935486 and the accuracy is  0.1940639317035675 
+
+Test MAE of sequence_length= 4 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7553109526634216 and the accuracy is  0.2442922443151474 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.39181289076805115 and the accuracy is  0.1940639317035675 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3598731458187103 and the accuracy is  0.5456621050834656 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.37406426668167114 and the accuracy is  0.38127854466438293 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.6065682768821716 and the accuracy is  0.45890411734580994 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3655209541320801 and the accuracy is  0.029680365696549416 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3741947114467621 and the accuracy is  0.6141552329063416 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.40916281938552856 and the accuracy is  0.18493150174617767 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7151620388031006 and the accuracy is  0.13698630034923553 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3930756151676178 and the accuracy is  0.77625572681427 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.34513601660728455 and the accuracy is  0.41324201226234436 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4330816864967346 and the accuracy is  0.0 
+
+Test MAE of sequence_length= 4 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7261300086975098 and the accuracy is  0.13470318913459778 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.4115832448005676 and the accuracy is  0.06572769582271576 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3550778925418854 and the accuracy is  0.7206572890281677 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.38581690192222595 and the accuracy is  0.6830986142158508 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.6501334309577942 and the accuracy is  0.2934272289276123 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.36460116505622864 and the accuracy is  0.6643192768096924 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3568047285079956 and the accuracy is  0.15962441265583038 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4505874216556549 and the accuracy is  0.05399060994386673 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7506119012832642 and the accuracy is  0.16431924700737 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.35234740376472473 and the accuracy is  0.061032865196466446 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3648536801338196 and the accuracy is  0.14553990960121155 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.6097128987312317 and the accuracy is  0.18544600903987885 
+
+Test MAE of sequence_length= 5 ,epochs= 20 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7416524887084961 and the accuracy is  0.0845070406794548 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.38456642627716064 and the accuracy is  0.0422535203397274 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3674866259098053 and the accuracy is  0.5563380122184753 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.37647995352745056 and the accuracy is  0.07981220632791519 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.48171910643577576 and the accuracy is  0.6901408433914185 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3732670545578003 and the accuracy is  0.0422535203397274 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3715077042579651 and the accuracy is  0.18075117468833923 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.38853225111961365 and the accuracy is  0.5258215665817261 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7037930488586426 and the accuracy is  0.23004694283008575 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.35593852400779724 and the accuracy is  0.7018779516220093 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3611074686050415 and the accuracy is  0.3849765360355377 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.5269515514373779 and the accuracy is  0.7605633735656738 
+
+Test MAE of sequence_length= 5 ,epochs= 30 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7677183151245117 and the accuracy is  0.65727698802948 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.34849798679351807 and the accuracy is  0.18544600903987885 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3519955277442932 and the accuracy is  0.09389671683311462 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.3751372694969177 and the accuracy is  0.3309859037399292 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.4464631676673889 and the accuracy is  0.0 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3892534375190735 and the accuracy is  0.07981220632791519 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3668370842933655 and the accuracy is  0.07511737197637558 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.3626193106174469 and the accuracy is  0.4154929518699646 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 64 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7194522619247437 and the accuracy is  0.10798121988773346 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.001) is:0.3537437617778778 and the accuracy is  0.07746478915214539 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.Adam(learning_rate=0.0001) is:0.3824418783187866 and the accuracy is  0.04694835841655731 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.001) is:0.4476352334022522 and the accuracy is  0.004694835748523474 
+
+Test MAE of sequence_length= 5 ,epochs= 40 ,batch size = 128 and optimizers= tf.keras.optimizers.SGD(learning_rate=0.0001) is:0.7767320871353149 and the accuracy is  0.11971831321716309 
+
