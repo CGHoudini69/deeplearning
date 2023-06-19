@@ -1,0 +1,64 @@
+﻿Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier1 is:0.16501759102147154 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier1 is:0.44188272849840743 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier1 is:0.5353077406229072 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier1 is:0.25315309181116225 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier1 is:0.131182784882162 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier1 is:0.015921581810318174 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier1 is:0.3899306626677139 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier1 is:0.132264373224418 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier1 is:0.485658274006696 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier1 is:0.4834915510996847 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier1 is:0.2041503099107951 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier1 is:0.5743278433240687 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier1 is:0.055647506028088746 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier1 is:0.5084966198084758 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier1 is:0.4842769639646281 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier1 is:0.32173685487282044 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier2 is:0.22712062632501206 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier2 is:0.4976427985517969 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier2 is:0.5170241401864664 
+
+Test Accuracy of epochs= 20 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier2 is:0.4227431017289541 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier2 is:0.1367389653909281 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier2 is:0.0478751861541765 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier2 is:0.06060085764583747 
+
+Test Accuracy of epochs= 20 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier2 is:0.3814106665586401 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier2 is:0.22210858027012959 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier2 is:0.16018669322946802 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier2 is:0.38882123114795614 
+
+Test Accuracy of epochs= 30 ,batch size = 16 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier2 is:0.10268318891885819 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.001 with classifier2 is:0.09804149625715704 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.Adam,learning_rate=0.0001, with classifier2 is:0.5937140103819571 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.001, with classifier2 is:0.33416984626478774 
+
+Test Accuracy of epochs= 30 ,batch size = 32 and optimizers= tf.keras.optimizers.SGD,learning_rate=0.0001 with classifier2 is:0.5057111521138857 
+

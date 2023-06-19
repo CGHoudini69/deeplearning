@@ -1,0 +1,2 @@
+# YOLOv3 Object Detection with Deep Learning, OpenCV, and Python
+This is the repository for the tutorial: https://dontrepeatyourself.org/post/yolov3-object-detection-with-deep-learning-opencv-and-python/
